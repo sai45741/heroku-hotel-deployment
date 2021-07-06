@@ -1,0 +1,1 @@
+web: python hotel_deployment.py
