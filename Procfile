@@ -1,1 +1,1 @@
-web app:gunicorn hotel_deployment.py
+web gunicorn hotel_deployment.py:app
