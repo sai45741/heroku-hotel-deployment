@@ -1,1 +1,1 @@
-web: gunicorn app:hotel_deployment
+web: gunicorn app:app
